@@ -1,20 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 ,Canal 24 horas
-http://server.stablechannels.tv:25461/live/zb4Ews5H1/D4r88by0Jc/4436.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES EC l FOX SPORTS 1 " tvg-logo="https://i.pinimg.com/564x/d1/cc/85/d1cc85a28042a2a9c17e3d6ac90534d5.jpg" group-title="DEPORTES ECUADOR ",DEPORTES EC l FOX SPORTS 1 
-http://compitv.info:8080/OnOq9W9YGn/FPOijuQhi8/64816
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES EC l FOX SPORTS 3" tvg-logo="https://i.pinimg.com/564x/98/cb/6b/98cb6b955ce3dde77f42169efc7127f0.jpg" group-title="DEPORTES ECUADOR ",DEPORTES EC l FOX SPORTS 3
-http://compitv.info:8080/OnOq9W9YGn/FPOijuQhi8/64818
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES EC l ESPN " tvg-logo="https://i.pinimg.com/564x/88/ab/f7/88abf7f3579e38b1a67c111ad94b5eda.jpg" group-title="DEPORTES ECUADOR ",DEPORTES EC l ESPN 
-http://compitv.info:8080/OnOq9W9YGn/FPOijuQhi8/64819
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES EC l ESPN 2" tvg-logo="https://i.pinimg.com/564x/fd/ad/6d/fdad6d3735e3b5a1166281e15016d703.jpg" group-title="DEPORTES ECUADOR ",DEPORTES EC l ESPN 2
-http://compitv.info:8080/OnOq9W9YGn/FPOijuQhi8/64820
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES EC l ESPN 3" tvg-logo="https://i.pinimg.com/564x/2f/8e/a6/2f8ea6c3e14e6ac08a8fffed9fefa7d3.jpg" group-title="DEPORTES ECUADOR ",DEPORTES EC l ESPN 3
-http://compitv.info:8080/OnOq9W9YGn/FPOijuQhi8/64821
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES EC l ESPN DEPORTES " tvg-logo="https://i.pinimg.com/564x/17/67/37/1767375951cabb74302ac10737f96af9.jpg" group-title="DEPORTES ECUADOR ",DEPORTES EC l ESPN DEPORTES 
-http://compitv.info:8080/OnOq9W9YGn/FPOijuQhi8/64822
-#EXTINF:-1 tvg-id="" tvg-name="CINE PREMIUM l LATINO STARZ " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Starz_2016.png/200px-Starz_2016.png" group-title="CINE STARZ Y SHOWTIME",CINE PREMIUM l LATINO STARZ 
-http://compitv.info:8080/OnOq9W9YGn/FPOijuQhi8/64824
 #EXTINF:-1 ,ESPN2
 https://e10.habrox.xyz/ingestnb4s/espn2_sur/d.m3u8
