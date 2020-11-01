@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ESPN2.mx" group-title="Channels",ESPN2
+https://e10.habrox.xyz/ingestnb4s/espn2_sur/d.m3u8
+#EXTINF:0 tvg-id="ESPN3.mx" group-title="Channels",ESPN3
+https://e10.habrox.xyz/ingestnb4s/espn3_sur/c.m3u8
+
